@@ -2364,7 +2364,7 @@ Options:
   -h              Show this help message
 
 Example:
-  WAYLAND_C_SRC -n 1 -p 25 -r
+  WAYLAND_C_BIN -n 1 -p 25 -r
   # Creates a file with 25% of code from index 1, shows compile/run command
 EOF
 }
